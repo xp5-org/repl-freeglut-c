@@ -6,9 +6,11 @@ GITHUB: https://github.com/xp5-org/repl-freeglut-c
 
 
 
-```
-Errors
-```
+
+
+  
+    
+    
 Sometimes i get the following error after my program closes strangely or if i exit the repl and reopen:
 ```
 ===================================================================
