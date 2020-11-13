@@ -9,6 +9,7 @@ GITHUB: https://github.com/xp5-org/repl-freeglut-c
 &nbsp;
 &nbsp;
 
+Use this repl as a template for freeglut OpenGL development in repl
 
   
     
