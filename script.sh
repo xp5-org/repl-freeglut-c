@@ -15,8 +15,8 @@ backupsourcename=$source_file$cdate
 examplebasepath=$replrootpath/freeglut-3.2.1/progs/demos/
 
 # name your files here - this is your own thing to edit/complile in C
-source_file=$replrootpath/'fractals.c'
-target_file=$replrootpath/'fractals'
+source_file=$replrootpath/'test.c'
+target_file=$replrootpath/'test'
 
 
 # check if freeglut3-dev is installed on host
